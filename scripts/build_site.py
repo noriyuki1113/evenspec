@@ -282,10 +282,18 @@ def main():
         ev_html = (f'<div class="card"><p><strong>Tracking started on {TRACKING_START}.</strong> '
                    "No price changes have been recorded yet. This page is rebuilt daily from the LiteLLM dataset; "
                    "every input/output price change will be logged here with the old and new price.</p></div>")
+    subscribe_html = (
+        '<div class="card"><h2 style="margin-top:0">Get price drops by email</h2>'
+        "<p>The EvenSpec Price Drops Digest: a short email when AI API prices drop. No spam, unsubscribe anytime.</p>"
+        '<form action="https://buttondown.com/api/emails/embed-subscribe/evenspec" method="post">'
+        '<label for="bd-email">Email address</label> '
+        '<input type="email" name="email" id="bd-email" required placeholder="you@example.com"> '
+        '<input type="submit" value="Subscribe"></form>'
+        '<p class="sub">Powered by <a href="https://buttondown.com/refer/evenspec" target="_blank" rel="noopener">Buttondown</a>.</p></div>')
     write("price-drops/index.html", layout(
         "AI API price drops & increases",
         "Daily log of AI model API price changes: drops and increases, with old and new prices per 1M tokens.",
-        f"<h1>Price drops &amp; changes</h1><p class='sub'>Logged automatically from daily data updates since {TRACKING_START}.</p>{ev_html}"))
+        f"<h1>Price drops &amp; changes</h1><p class='sub'>Logged automatically from daily data updates since {TRACKING_START}.</p>{subscribe_html}{ev_html}"))
 
     # ---- calculator ----
     calc_models = popular[:24]
