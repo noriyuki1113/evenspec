@@ -70,3 +70,5 @@ Once a month, ~10 minutes:
   on LiteLLM data alone.
 - Always-verify disclaimer: prices change frequently; the site tells visitors
   to verify against official provider pricing.
+
+<!-- Web Analytics enabled 2026-11-21; redeploy marker -->
