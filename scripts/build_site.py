@@ -103,6 +103,7 @@ def layout(title, desc, body, extra=""):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)} | EvenSpec</title>
 <meta name="description" content="{esc(desc)}">
+<meta name="google-site-verification" content="H42DoUSbFeODP8RnSo8jtB5Q-oUqNA2MmQshmp_0h9Q">
 <link rel="stylesheet" href="/assets/style.css">{extra}</head>
 <body><header><div class="wrap"><a class="logo" href="/">Even<span>Spec</span></a>
 <nav><a href="/models/">Models</a><a href="/compare/">Compare</a><a href="/price-drops/">Price drops</a><a href="/calculators/coding-agent-cost/">Coding-agent cost</a><a href="/about/">About</a></nav></div></header>
