@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24",
- "count": 4558,
+ "generated_at": "2026-11-25",
+ "count": 4571,
  "models": [
   {
    "id": "abliteration/abliterated-model",
@@ -172,8 +172,8 @@
    "source_url": "https://api.aiand.com/v1/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -212,8 +212,8 @@
    "source_url": "https://api.aiand.com/v1/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -432,8 +432,8 @@
    "source_url": "https://api.aiand.com/v1/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -697,8 +697,8 @@
    "source_url": "https://aihubmix.com/api/v1/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -997,8 +997,8 @@
    "source_url": "https://aihubmix.com/api/v1/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -1602,8 +1602,8 @@
    "source_url": "https://aihubmix.com/api/v1/models",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -8792,8 +8792,8 @@
    "source_url": "https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20'Foundry%20Models'%20and%20armRegionName%20eq%20'eastus'%20and%20priceType%20eq%20'Consumption'",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -8832,8 +8832,8 @@
    "source_url": "https://ai.azure.com/catalog/models/DeepSeek-V4.1-Flash-1017",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -9827,8 +9827,8 @@
    "source_url": null,
    "openrouter": {
     "id": "minimax/minimax-m2.5",
-    "price_in_per_1m": 0.27,
-    "price_out_per_1m": 0.95,
+    "price_in_per_1m": 0.3,
+    "price_out_per_1m": 1.2,
     "url": "https://openrouter.ai/minimax/minimax-m2.5"
    }
   },
@@ -9897,8 +9897,8 @@
    "source_url": "https://inference.baseten.co/v1/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -9957,8 +9957,8 @@
    "source_url": "https://inference.baseten.co/v1/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -10407,8 +10407,8 @@
    "source_url": "https://inference.baseten.co/v1/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -25372,8 +25372,8 @@
    "source_url": "https://docs.bigmodel.cn/cn/guide/start/pricing",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -25588,7 +25588,7 @@
    "name": "chat-latest",
    "provider": "openai",
    "mode": "chat",
-   "context": 400000,
+   "context": 272000,
    "max_output": 128000,
    "price_in_per_1m": 5.0,
    "price_out_per_1m": 30.0,
@@ -26037,8 +26037,8 @@
    "source_url": "https://clfaigateway.dev/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -26137,8 +26137,8 @@
    "source_url": "https://clfaigateway.dev/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -27317,8 +27317,8 @@
    "source_url": "https://www.alibabacloud.com/help/en/model-studio/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -29622,7 +29622,7 @@
    "source_url": "https://deepinfra.com/pricing",
    "openrouter": {
     "id": "qwen/qwen3.5-9b",
-    "price_in_per_1m": 0.17,
+    "price_in_per_1m": 0.1,
     "price_out_per_1m": 0.25,
     "url": "https://openrouter.ai/qwen/qwen3.5-9b"
    }
@@ -29662,8 +29662,8 @@
    "source_url": "https://deepinfra.com/pricing",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -29800,12 +29800,7 @@
    "price_cache_read_per_1m": 0.08,
    "price_cache_create_per_1m": null,
    "source_url": "https://deepinfra.com/pricing",
-   "openrouter": {
-    "id": "xiaomi/mimo-v2.5",
-    "price_in_per_1m": 0.4,
-    "price_out_per_1m": 2.0,
-    "url": "https://openrouter.ai/xiaomi/mimo-v2.5"
-   }
+   "openrouter": null
   },
   {
    "id": "deepinfra/XiaomiMiMo/MiMo-V2.5-Pro",
@@ -30257,8 +30252,8 @@
    "source_url": "https://deepinfra.com/pricing",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -30317,8 +30312,8 @@
    "source_url": "https://deepinfra.com/deepseek-ai/DeepSeek-V4.1-Flash-1017",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -31507,8 +31502,8 @@
    "source_url": "https://deepinfra.com/zai-org/GLM-5.3-Flash",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -31612,8 +31607,8 @@
    "source_url": "https://api-docs.deepseek.com/quick_start/pricing",
    "openrouter": {
     "id": "deepseek/deepseek-v4-flash-vision-exp",
-    "price_in_per_1m": 0.2156,
-    "price_out_per_1m": 0.6468,
+    "price_in_per_1m": 0.44,
+    "price_out_per_1m": 1.32,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp"
    }
   },
@@ -31632,8 +31627,8 @@
    "source_url": "https://api-docs.deepseek.com/quick_start/pricing",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -31832,8 +31827,8 @@
    "source_url": "https://api-docs.deepseek.com/quick_start/pricing",
    "openrouter": {
     "id": "deepseek/deepseek-v4-flash-vision-exp",
-    "price_in_per_1m": 0.2156,
-    "price_out_per_1m": 0.6468,
+    "price_in_per_1m": 0.44,
+    "price_out_per_1m": 1.32,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp"
    }
   },
@@ -31852,8 +31847,8 @@
    "source_url": "https://api-docs.deepseek.com/quick_start/pricing",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -31952,8 +31947,8 @@
    "source_url": "https://empiriolabs.ai/models/deepseek-v4-pro",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -34617,8 +34612,8 @@
    "source_url": "https://api.fireworks.ai/v1/serverless/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-flash-vision-exp",
-    "price_in_per_1m": 0.2156,
-    "price_out_per_1m": 0.6468,
+    "price_in_per_1m": 0.44,
+    "price_out_per_1m": 1.32,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp"
    }
   },
@@ -34637,8 +34632,8 @@
    "source_url": "https://api.fireworks.ai/v1/serverless/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -35256,6 +35251,26 @@
    "price_cache_create_per_1m": null,
    "source_url": null,
    "openrouter": null
+  },
+  {
+   "id": "fireworks_ai/accounts/fireworks/models/hy4-flash",
+   "slug": "fireworks-ai-accounts-fireworks-models-hy4-flash",
+   "name": "hy4-flash",
+   "provider": "fireworks_ai",
+   "mode": "chat",
+   "context": 524288,
+   "max_output": null,
+   "price_in_per_1m": 0.07,
+   "price_out_per_1m": 0.281,
+   "price_cache_read_per_1m": 0.003,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://fireworks.ai/models/fireworks/hy4-flash",
+   "openrouter": {
+    "id": "tencent/hy4-flash",
+    "price_in_per_1m": 0.035,
+    "price_out_per_1m": 0.1405,
+    "url": "https://openrouter.ai/tencent/hy4-flash"
+   }
   },
   {
    "id": "fireworks_ai/accounts/fireworks/models/inkling",
@@ -37733,6 +37748,26 @@
    "openrouter": null
   },
   {
+   "id": "fireworks_ai/accounts/fireworks/models/qwen4-max",
+   "slug": "fireworks-ai-accounts-fireworks-models-qwen4-max",
+   "name": "qwen4-max",
+   "provider": "fireworks_ai",
+   "mode": "chat",
+   "context": 262144,
+   "max_output": null,
+   "price_in_per_1m": 1.5,
+   "price_out_per_1m": 4.5,
+   "price_cache_read_per_1m": 0.075,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://api.fireworks.ai/v1/serverless/models?format=nested",
+   "openrouter": {
+    "id": "qwen/qwen4-max",
+    "price_in_per_1m": 1.425,
+    "price_out_per_1m": 4.275,
+    "url": "https://openrouter.ai/qwen/qwen4-max"
+   }
+  },
+  {
    "id": "fireworks_ai/accounts/fireworks/models/qwq-32b",
    "slug": "fireworks-ai-accounts-fireworks-models-qwq-32b",
    "name": "qwq-32b",
@@ -38002,8 +38037,8 @@
    "source_url": "https://api.fireworks.ai/v1/serverless/models?format=nested",
    "openrouter": {
     "id": "~deepseek/deepseek-flash-latest",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.036,
+    "price_out_per_1m": 0.5,
     "url": "https://openrouter.ai/~deepseek/deepseek-flash-latest"
    }
   },
@@ -38482,8 +38517,8 @@
    "source_url": "https://api.fireworks.ai/v1/serverless/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-flash-vision-exp",
-    "price_in_per_1m": 0.2156,
-    "price_out_per_1m": 0.6468,
+    "price_in_per_1m": 0.44,
+    "price_out_per_1m": 1.32,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp"
    }
   },
@@ -39077,8 +39112,8 @@
    "source_url": "https://api.friendli.ai/serverless/v1/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -42052,8 +42087,8 @@
    "source_url": "https://ie-api.gmicloud.ai/v1/artifact/get_public_artifacts",
    "openrouter": {
     "id": "minimax/minimax-m2.5",
-    "price_in_per_1m": 0.27,
-    "price_out_per_1m": 0.95,
+    "price_in_per_1m": 0.3,
+    "price_out_per_1m": 1.2,
     "url": "https://openrouter.ai/minimax/minimax-m2.5"
    }
   },
@@ -42357,8 +42392,8 @@
    "source_url": "https://ie-api.gmicloud.ai/v1/artifact/get_public_artifacts",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -42510,12 +42545,7 @@
    "price_cache_read_per_1m": 0.00238,
    "price_cache_create_per_1m": null,
    "source_url": "https://ie-api.gmicloud.ai/v1/artifact/get_public_artifacts",
-   "openrouter": {
-    "id": "xiaomi/mimo-v2.5",
-    "price_in_per_1m": 0.4,
-    "price_out_per_1m": 2.0,
-    "url": "https://openrouter.ai/xiaomi/mimo-v2.5"
-   }
+   "openrouter": null
   },
   {
    "id": "gmi/XiaomiMiMo/MiMo-V2.5-Pro",
@@ -42967,8 +42997,8 @@
    "source_url": "https://ie-api.gmicloud.ai/v1/artifact/get_public_artifacts",
    "openrouter": {
     "id": "deepseek/deepseek-v4-flash-vision-exp",
-    "price_in_per_1m": 0.2156,
-    "price_out_per_1m": 0.6468,
+    "price_in_per_1m": 0.44,
+    "price_out_per_1m": 1.32,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp"
    }
   },
@@ -42987,8 +43017,8 @@
    "source_url": "https://ie-api.gmicloud.ai/v1/artifact/get_public_artifacts",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -44242,8 +44272,8 @@
    "source_url": "https://ie-api.gmicloud.ai/v1/artifact/get_public_artifacts",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -45693,6 +45723,21 @@
    }
   },
   {
+   "id": "gpt-6-astra-healthcare",
+   "slug": "gpt-6-astra-healthcare",
+   "name": "gpt-6-astra-healthcare",
+   "provider": "openai",
+   "mode": "responses",
+   "context": 922000,
+   "max_output": 128000,
+   "price_in_per_1m": 10.0,
+   "price_out_per_1m": 50.0,
+   "price_cache_read_per_1m": 1.0,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://developers.openai.com/api/docs/pricing",
+   "openrouter": null
+  },
+  {
    "id": "gpt-6-astra-law",
    "slug": "gpt-6-astra-law",
    "name": "gpt-6-astra-law",
@@ -45798,6 +45843,21 @@
    }
   },
   {
+   "id": "gpt-6.1-sol-healthcare",
+   "slug": "gpt-6-1-sol-healthcare",
+   "name": "gpt-6.1-sol-healthcare",
+   "provider": "openai",
+   "mode": "responses",
+   "context": 922000,
+   "max_output": 128000,
+   "price_in_per_1m": 2.0,
+   "price_out_per_1m": 10.0,
+   "price_cache_read_per_1m": 0.1,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://developers.openai.com/api/docs/pricing",
+   "openrouter": null
+  },
+  {
    "id": "gpt-6.1-terra",
    "slug": "gpt-6-1-terra",
    "name": "gpt-6.1-terra",
@@ -45838,6 +45898,21 @@
    }
   },
   {
+   "id": "gpt-6.2-astra-healthcare",
+   "slug": "gpt-6-2-astra-healthcare",
+   "name": "gpt-6.2-astra-healthcare",
+   "provider": "openai",
+   "mode": "responses",
+   "context": 922000,
+   "max_output": 128000,
+   "price_in_per_1m": 8.0,
+   "price_out_per_1m": 40.0,
+   "price_cache_read_per_1m": 0.4,
+   "price_cache_create_per_1m": 10.0,
+   "source_url": "https://developers.openai.com/api/docs/pricing",
+   "openrouter": null
+  },
+  {
    "id": "gpt-6.2-astra-law",
    "slug": "gpt-6-2-astra-law",
    "name": "gpt-6.2-astra-law",
@@ -45871,6 +45946,21 @@
     "price_out_per_1m": 10.0,
     "url": "https://openrouter.ai/openai/gpt-6.2-sol"
    }
+  },
+  {
+   "id": "gpt-6.2-sol-healthcare",
+   "slug": "gpt-6-2-sol-healthcare",
+   "name": "gpt-6.2-sol-healthcare",
+   "provider": "openai",
+   "mode": "responses",
+   "context": 922000,
+   "max_output": 128000,
+   "price_in_per_1m": 2.0,
+   "price_out_per_1m": 10.0,
+   "price_cache_read_per_1m": 0.1,
+   "price_cache_create_per_1m": 2.5,
+   "source_url": "https://developers.openai.com/api/docs/pricing",
+   "openrouter": null
   },
   {
    "id": "gpt-audio",
@@ -46345,6 +46435,86 @@
     "price_in_per_1m": 1.75,
     "price_out_per_1m": 14.0,
     "url": "https://openrouter.ai/openai/gpt-5.2"
+   }
+  },
+  {
+   "id": "huawei_maas/deepseek-v4.1-flash",
+   "slug": "huawei-maas-deepseek-v4-1-flash",
+   "name": "deepseek-v4.1-flash",
+   "provider": "huawei_maas",
+   "mode": "chat",
+   "context": 1000000,
+   "max_output": 384000,
+   "price_in_per_1m": 0.3,
+   "price_out_per_1m": 1.2,
+   "price_cache_read_per_1m": 0.03,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://support.huaweicloud.com/intl/en-us/price-maas/price-maas-0002.html",
+   "openrouter": {
+    "id": "deepseek/deepseek-v4.1-flash",
+    "price_in_per_1m": 0.0507,
+    "price_out_per_1m": 0.2028,
+    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash"
+   }
+  },
+  {
+   "id": "huawei_maas/deepseek-v4.1-flash-1017",
+   "slug": "huawei-maas-deepseek-v4-1-flash-1017",
+   "name": "deepseek-v4.1-flash-1017",
+   "provider": "huawei_maas",
+   "mode": "chat",
+   "context": 1000000,
+   "max_output": 384000,
+   "price_in_per_1m": 0.3,
+   "price_out_per_1m": 1.2,
+   "price_cache_read_per_1m": 0.006,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://support.huaweicloud.com/intl/en-us/price-maas/price-maas-0002.html",
+   "openrouter": {
+    "id": "deepseek/deepseek-v4.1-flash-1017",
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
+    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+   }
+  },
+  {
+   "id": "huawei_maas/glm-5.2",
+   "slug": "huawei-maas-glm-5-2",
+   "name": "glm-5.2",
+   "provider": "huawei_maas",
+   "mode": "chat",
+   "context": 1000000,
+   "max_output": 128000,
+   "price_in_per_1m": 1.4,
+   "price_out_per_1m": 4.4,
+   "price_cache_read_per_1m": 0.26,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://support.huaweicloud.com/intl/en-us/price-maas/price-maas-0002.html",
+   "openrouter": {
+    "id": "z-ai/glm-5.2",
+    "price_in_per_1m": 0.62,
+    "price_out_per_1m": 2.42,
+    "url": "https://openrouter.ai/z-ai/glm-5.2"
+   }
+  },
+  {
+   "id": "huawei_maas/glm-5.3",
+   "slug": "huawei-maas-glm-5-3",
+   "name": "glm-5.3",
+   "provider": "huawei_maas",
+   "mode": "chat",
+   "context": 1000000,
+   "max_output": 128000,
+   "price_in_per_1m": 1.4,
+   "price_out_per_1m": 4.4,
+   "price_cache_read_per_1m": 0.26,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://support.huaweicloud.com/intl/en-us/price-maas/price-maas-0002.html",
+   "openrouter": {
+    "id": "z-ai/glm-5.3",
+    "price_in_per_1m": 0.0699,
+    "price_out_per_1m": 1.4,
+    "url": "https://openrouter.ai/z-ai/glm-5.3"
    }
   },
   {
@@ -46872,8 +47042,8 @@
    "source_url": "https://inferenceapis.com/pricing",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -47017,8 +47187,8 @@
    "source_url": "https://inferenceapis.com/pricing",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -47077,8 +47247,8 @@
    "source_url": "https://inferenceapis.com/pricing",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -47462,8 +47632,8 @@
    "source_url": "https://inferenceapis.com/pricing",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -48077,8 +48247,8 @@
    "source_url": null,
    "openrouter": {
     "id": "deepseek/deepseek-v4-flash-vision-exp",
-    "price_in_per_1m": 0.2156,
-    "price_out_per_1m": 0.6468,
+    "price_in_per_1m": 0.44,
+    "price_out_per_1m": 1.32,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp"
    }
   },
@@ -48282,8 +48452,8 @@
    "source_url": null,
    "openrouter": {
     "id": "z-ai/glm-4.5-air",
-    "price_in_per_1m": 0.13,
-    "price_out_per_1m": 0.85,
+    "price_in_per_1m": 0.14,
+    "price_out_per_1m": 0.86,
     "url": "https://openrouter.ai/z-ai/glm-4.5-air"
    }
   },
@@ -48382,8 +48552,8 @@
    "source_url": null,
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -48890,12 +49060,7 @@
    "price_cache_read_per_1m": null,
    "price_cache_create_per_1m": null,
    "source_url": null,
-   "openrouter": {
-    "id": "xiaomi/mimo-v2.5",
-    "price_in_per_1m": 0.4,
-    "price_out_per_1m": 2.0,
-    "url": "https://openrouter.ai/xiaomi/mimo-v2.5"
-   }
+   "openrouter": null
   },
   {
    "id": "kyma/mimo-v2.6-flash",
@@ -48952,8 +49117,8 @@
    "source_url": null,
    "openrouter": {
     "id": "minimax/minimax-m2.5",
-    "price_in_per_1m": 0.27,
-    "price_out_per_1m": 0.95,
+    "price_in_per_1m": 0.3,
+    "price_out_per_1m": 1.2,
     "url": "https://openrouter.ai/minimax/minimax-m2.5"
    }
   },
@@ -49952,8 +50117,8 @@
    "source_url": "https://docs.libertai.io/apis/text/",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -50642,8 +50807,8 @@
    "source_url": null,
    "openrouter": {
     "id": "minimax/minimax-m2.5",
-    "price_in_per_1m": 0.27,
-    "price_out_per_1m": 0.95,
+    "price_in_per_1m": 0.3,
+    "price_out_per_1m": 1.2,
     "url": "https://openrouter.ai/minimax/minimax-m2.5"
    }
   },
@@ -51420,12 +51585,7 @@
    "price_cache_read_per_1m": 0.15,
    "price_cache_create_per_1m": null,
    "source_url": "https://docs.mistral.ai/models/model-cards/mistral-medium-3-5-26-04",
-   "openrouter": {
-    "id": "mistralai/mistral-medium-3",
-    "price_in_per_1m": 0.44,
-    "price_out_per_1m": 2.2,
-    "url": "https://openrouter.ai/mistralai/mistral-medium-3"
-   }
+   "openrouter": null
   },
   {
    "id": "mistral/mistral-medium-3-5",
@@ -52177,8 +52337,8 @@
    "source_url": "https://tokenfactory.nebius.com/models/catalog/text2text/MiniMaxAI%2FMiniMax-M2.5",
    "openrouter": {
     "id": "minimax/minimax-m2.5",
-    "price_in_per_1m": 0.27,
-    "price_out_per_1m": 0.95,
+    "price_in_per_1m": 0.3,
+    "price_out_per_1m": 1.2,
     "url": "https://openrouter.ai/minimax/minimax-m2.5"
    }
   },
@@ -52697,8 +52857,8 @@
    "source_url": "https://tokenfactory.nebius.com/api/public/models_info",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -52757,8 +52917,8 @@
    "source_url": "https://tokenfactory.nebius.com/api/public/models_info",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -53287,8 +53447,8 @@
    "source_url": "https://tokenfactory.nebius.com/api/public/models_info",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -53802,8 +53962,8 @@
    "source_url": "https://api.novita.ai/v3/openai/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-flash-vision-exp",
-    "price_in_per_1m": 0.2156,
-    "price_out_per_1m": 0.6468,
+    "price_in_per_1m": 0.44,
+    "price_out_per_1m": 1.32,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp"
    }
   },
@@ -53822,8 +53982,8 @@
    "source_url": "https://novita.ai/pricing",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -54237,8 +54397,8 @@
    "source_url": "https://novita.ai/pricing",
    "openrouter": {
     "id": "minimax/minimax-m2.5",
-    "price_in_per_1m": 0.27,
-    "price_out_per_1m": 0.95,
+    "price_in_per_1m": 0.3,
+    "price_out_per_1m": 1.2,
     "url": "https://openrouter.ai/minimax/minimax-m2.5"
    }
   },
@@ -55082,8 +55242,8 @@
    "source_url": "https://novita.ai/pricing",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -55265,12 +55425,7 @@
    "price_cache_read_per_1m": 0.0034,
    "price_cache_create_per_1m": null,
    "source_url": "https://novita.ai/pricing",
-   "openrouter": {
-    "id": "xiaomi/mimo-v2.5",
-    "price_in_per_1m": 0.4,
-    "price_out_per_1m": 2.0,
-    "url": "https://openrouter.ai/xiaomi/mimo-v2.5"
-   }
+   "openrouter": null
   },
   {
    "id": "novita/xiaomimimo/mimo-v2.5-pro",
@@ -55337,8 +55492,8 @@
    "source_url": null,
    "openrouter": {
     "id": "z-ai/glm-4.5-air",
-    "price_in_per_1m": 0.13,
-    "price_out_per_1m": 0.85,
+    "price_in_per_1m": 0.14,
+    "price_out_per_1m": 0.86,
     "url": "https://openrouter.ai/z-ai/glm-4.5-air"
    }
   },
@@ -57332,8 +57487,8 @@
    "source_url": "https://opencode.ai/v2/docs/console/go/",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -57432,8 +57587,8 @@
    "source_url": "https://opencode.ai/v2/docs/console/go/",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -57640,12 +57795,7 @@
    "price_cache_read_per_1m": 0.0028,
    "price_cache_create_per_1m": null,
    "source_url": "https://opencode.ai/v2/docs/console/go/",
-   "openrouter": {
-    "id": "xiaomi/mimo-v2.5",
-    "price_in_per_1m": 0.4,
-    "price_out_per_1m": 2.0,
-    "url": "https://openrouter.ai/xiaomi/mimo-v2.5"
-   }
+   "openrouter": null
   },
   {
    "id": "opencode_go/mimo-v2.5-pro",
@@ -57872,8 +58022,8 @@
    "source_url": "https://api.openinfer.ai/v1/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -57912,7 +58062,7 @@
    "source_url": "https://api.openinfer.ai/v1/models",
    "openrouter": {
     "id": "qwen/qwen3.5-9b",
-    "price_in_per_1m": 0.17,
+    "price_in_per_1m": 0.1,
     "price_out_per_1m": 0.25,
     "url": "https://openrouter.ai/qwen/qwen3.5-9b"
    }
@@ -57972,8 +58122,8 @@
    "source_url": "https://openrouter.ai/api/v1/models?output_modalities=all",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -59357,8 +59507,8 @@
    "source_url": "https://docs.perplexity.ai/docs/agent-api/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -60612,8 +60762,8 @@
    "source_url": "https://docs.perplexity.ai/docs/orchestrator/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -60732,8 +60882,8 @@
    "source_url": "https://pinstripes.io/",
    "openrouter": {
     "id": "z-ai/glm-4.5-air",
-    "price_in_per_1m": 0.13,
-    "price_out_per_1m": 0.85,
+    "price_in_per_1m": 0.14,
+    "price_out_per_1m": 0.86,
     "url": "https://openrouter.ai/z-ai/glm-4.5-air"
    }
   },
@@ -60807,8 +60957,8 @@
    "source_url": "https://pinstripes.io/",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -61147,8 +61297,8 @@
    "source_url": "https://www.alibabacloud.com/help/en/model-studio/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -61627,8 +61777,8 @@
    "source_url": "https://www.qwencloud.com/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -63697,8 +63847,8 @@
    "source_url": "https://docs.sailresearch.com/models",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -63907,8 +64057,8 @@
    "source_url": "https://docs.sailresearch.com/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -64472,8 +64622,8 @@
    "source_url": null,
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -65117,8 +65267,8 @@
    "source_url": "https://www.streamlake.ai/document/DOC/mgrnm4xm362hvp5wyce",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -65222,8 +65372,8 @@
    "source_url": "https://www.streamlake.ai/document/DOC/mgrnm4xm362hvp5wyce",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -65242,8 +65392,8 @@
    "source_url": "https://www.streamlake.ai/document/DOC/mgrnm4xm362hvp5wyce",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -65417,8 +65567,8 @@
    "source_url": "https://www.streamlake.ai/document/DOC/mgrnm4xm362hvp5wyce",
    "openrouter": {
     "id": "minimax/minimax-m2.5",
-    "price_in_per_1m": 0.27,
-    "price_out_per_1m": 0.95,
+    "price_in_per_1m": 0.3,
+    "price_out_per_1m": 1.2,
     "url": "https://openrouter.ai/minimax/minimax-m2.5"
    }
   },
@@ -65497,8 +65647,8 @@
    "source_url": "https://www.streamlake.ai/document/DOC/mgrnm4xm362hvp5wyce",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -65577,8 +65727,8 @@
    "source_url": "https://www.tencentcloud.com/document/product/1300/78937",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -65677,8 +65827,8 @@
    "source_url": "https://www.tencentcloud.com/document/product/1300/78937",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -65847,8 +65997,8 @@
    "source_url": "https://serverless.tensormesh.ai/v1/models/openrouter",
    "openrouter": {
     "id": "minimax/minimax-m2.5",
-    "price_in_per_1m": 0.27,
-    "price_out_per_1m": 0.95,
+    "price_in_per_1m": 0.3,
+    "price_out_per_1m": 1.2,
     "url": "https://openrouter.ai/minimax/minimax-m2.5"
    }
   },
@@ -66482,7 +66632,7 @@
    "source_url": "https://api.together.ai/v1/models",
    "openrouter": {
     "id": "qwen/qwen3.5-9b",
-    "price_in_per_1m": 0.17,
+    "price_in_per_1m": 0.1,
     "price_out_per_1m": 0.25,
     "url": "https://openrouter.ai/qwen/qwen3.5-9b"
    }
@@ -66762,8 +66912,8 @@
    "source_url": "https://api.together.ai/v1/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -67542,8 +67692,8 @@
    "source_url": "https://api.together.ai/v1/models",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -67800,6 +67950,21 @@
    "price_cache_read_per_1m": 0.33,
    "price_cache_create_per_1m": null,
    "source_url": "https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonBedrock/current/us-gov-west-1/index.json",
+   "openrouter": null
+  },
+  {
+   "id": "us-gov.openai.gpt-5.6-cyber",
+   "slug": "us-gov-openai-gpt-5-6-cyber",
+   "name": "us-gov.openai.gpt-5.6-cyber",
+   "provider": "bedrock_converse",
+   "mode": "chat",
+   "context": 922000,
+   "max_output": 128000,
+   "price_in_per_1m": 16.875,
+   "price_out_per_1m": 101.25,
+   "price_cache_read_per_1m": 1.6875,
+   "price_cache_create_per_1m": 21.09375,
+   "source_url": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-openai-gpt-56-cyber.html",
    "openrouter": null
   },
   {
@@ -70477,8 +70642,8 @@
    "source_url": null,
    "openrouter": {
     "id": "z-ai/glm-4.5-air",
-    "price_in_per_1m": 0.13,
-    "price_out_per_1m": 0.85,
+    "price_in_per_1m": 0.14,
+    "price_out_per_1m": 0.86,
     "url": "https://openrouter.ai/z-ai/glm-4.5-air"
    }
   },
@@ -72195,12 +72360,7 @@
    "price_cache_read_per_1m": null,
    "price_cache_create_per_1m": null,
    "source_url": "https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing",
-   "openrouter": {
-    "id": "mistralai/mistral-medium-3",
-    "price_in_per_1m": 0.44,
-    "price_out_per_1m": 2.2,
-    "url": "https://openrouter.ai/mistralai/mistral-medium-3"
-   }
+   "openrouter": null
   },
   {
    "id": "vertex_ai/mistral-medium-3@001",
@@ -72215,12 +72375,7 @@
    "price_cache_read_per_1m": null,
    "price_cache_create_per_1m": null,
    "source_url": "https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing",
-   "openrouter": {
-    "id": "mistralai/mistral-medium-3",
-    "price_in_per_1m": 0.44,
-    "price_out_per_1m": 2.2,
-    "url": "https://openrouter.ai/mistralai/mistral-medium-3"
-   }
+   "openrouter": null
   },
   {
    "id": "vertex_ai/mistral-nemo@2407",
@@ -72335,12 +72490,7 @@
    "price_cache_read_per_1m": null,
    "price_cache_create_per_1m": null,
    "source_url": "https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing",
-   "openrouter": {
-    "id": "mistralai/mistral-medium-3",
-    "price_in_per_1m": 0.44,
-    "price_out_per_1m": 2.2,
-    "url": "https://openrouter.ai/mistralai/mistral-medium-3"
-   }
+   "openrouter": null
   },
   {
    "id": "vertex_ai/mistralai/mistral-medium-3@001",
@@ -72355,12 +72505,7 @@
    "price_cache_read_per_1m": null,
    "price_cache_create_per_1m": null,
    "source_url": "https://cloud.google.com/gemini-enterprise-agent-platform/generative-ai/pricing",
-   "openrouter": {
-    "id": "mistralai/mistral-medium-3",
-    "price_in_per_1m": 0.44,
-    "price_out_per_1m": 2.2,
-    "url": "https://openrouter.ai/mistralai/mistral-medium-3"
-   }
+   "openrouter": null
   },
   {
    "id": "vertex_ai/moonshotai/kimi-k2-thinking-maas",
@@ -72807,8 +72952,8 @@
    "source_url": "https://inference.runanywhere.ai/v1/models",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -72872,8 +73017,8 @@
    "source_url": "https://www.runwally.com/pricing",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -73042,8 +73187,8 @@
    "source_url": "https://www.coreweave.com/products/coreweave-forge/serverless-inference",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   },
@@ -73137,8 +73282,8 @@
    "source_url": "https://wandb.ai/site/pricing/tokens/",
    "openrouter": {
     "id": "deepseek/deepseek-v4-pro",
-    "price_in_per_1m": 1.28,
-    "price_out_per_1m": 2.56,
+    "price_in_per_1m": 0.86711,
+    "price_out_per_1m": 1.5228,
     "url": "https://openrouter.ai/deepseek/deepseek-v4-pro"
    }
   },
@@ -73197,8 +73342,8 @@
    "source_url": "https://www.coreweave.com/products/coreweave-forge/serverless-inference",
    "openrouter": {
     "id": "deepseek/deepseek-v4.1-flash-1017",
-    "price_in_per_1m": 0.03,
-    "price_out_per_1m": 0.2,
+    "price_in_per_1m": 0.15,
+    "price_out_per_1m": 0.6,
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
    }
   },
@@ -73557,8 +73702,8 @@
    "source_url": "https://www.coreweave.com/products/coreweave-forge/serverless-inference",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -74648,6 +74793,21 @@
    }
   },
   {
+   "id": "xai/grok-4.6-latest",
+   "slug": "xai-grok-4-6-latest",
+   "name": "grok-4.6-latest",
+   "provider": "xai",
+   "mode": "chat",
+   "context": 500000,
+   "max_output": 500000,
+   "price_in_per_1m": 2.0,
+   "price_out_per_1m": 6.0,
+   "price_cache_read_per_1m": 0.5,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://api.x.ai/v1/language-models",
+   "openrouter": null
+  },
+  {
    "id": "xai/grok-4.7",
    "slug": "xai-grok-4-7",
    "name": "grok-4.7",
@@ -74666,6 +74826,21 @@
     "price_out_per_1m": 6.0,
     "url": "https://openrouter.ai/x-ai/grok-4.7"
    }
+  },
+  {
+   "id": "xai/grok-4.7-latest",
+   "slug": "xai-grok-4-7-latest",
+   "name": "grok-4.7-latest",
+   "provider": "xai",
+   "mode": "chat",
+   "context": 500000,
+   "max_output": 500000,
+   "price_in_per_1m": 2.0,
+   "price_out_per_1m": 6.0,
+   "price_cache_read_per_1m": 0.5,
+   "price_cache_create_per_1m": null,
+   "source_url": "https://api.x.ai/v1/language-models",
+   "openrouter": null
   },
   {
    "id": "xai/grok-build-0.1",
@@ -74877,8 +75052,8 @@
    "source_url": "https://docs.z.ai/guides/overview/pricing",
    "openrouter": {
     "id": "z-ai/glm-4.5-air",
-    "price_in_per_1m": 0.13,
-    "price_out_per_1m": 0.85,
+    "price_in_per_1m": 0.14,
+    "price_out_per_1m": 0.86,
     "url": "https://openrouter.ai/z-ai/glm-4.5-air"
    }
   },
@@ -75117,8 +75292,8 @@
    "source_url": "https://docs.z.ai/guides/overview/pricing",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -75207,8 +75382,8 @@
    "source_url": "https://docs.zerogpu.ai/docs/model-catalog",
    "openrouter": {
     "id": "z-ai/glm-5.3-flash",
-    "price_in_per_1m": 0.15,
-    "price_out_per_1m": 0.5,
+    "price_in_per_1m": 0.12,
+    "price_out_per_1m": 0.38,
     "url": "https://openrouter.ai/z-ai/glm-5.3-flash"
    }
   },
@@ -75372,8 +75547,8 @@
    "source_url": "https://docs.zerogpu.ai/docs/model-catalog",
    "openrouter": {
     "id": "qwen/qwen3.6-35b-a3b",
-    "price_in_per_1m": 0.05,
-    "price_out_per_1m": 0.7,
+    "price_in_per_1m": 0.1,
+    "price_out_per_1m": 0.89,
     "url": "https://openrouter.ai/qwen/qwen3.6-35b-a3b"
    }
   }
